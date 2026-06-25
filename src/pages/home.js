@@ -213,7 +213,7 @@ const Home = () => {
                 <p>SyncMeet © 2026</p>
 
                 <p>
-                    Built using React, Node.js, Socket.IO & WebRTC
+                    Built using React, Node.js, Socket.IO & WebRTC.
                 </p>
 
             </footer>
